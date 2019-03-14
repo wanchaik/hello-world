@@ -1,0 +1,10 @@
+{
+    "name": "wanchaik/hello-world",
+    "authors": [
+        {
+            "name": "Wanchai Kaekla",
+            "email": "wanchaik@hotmail.com"
+        }
+    ],
+    "require": {}
+}
